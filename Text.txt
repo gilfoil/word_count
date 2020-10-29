@@ -1,0 +1,8 @@
+Das Betriebssystem ist das grundlegende Computerprogramm. Es steuert die Hardware, koordiniert die Ressourcenzugriffe der Anwendungsprogramme und stellt dem Benutzer 
+Steuerungsmöglichkeiten zur Verfügung. Im Einzelnen erfüllen Betriebssysteme vor allem die folgenden Aufgaben: Prozessmanagement. Die Ressourcen des Computersystems müssen 
+zwischen den verschiedenen laufenden Programmen und Systemaufgaben verteilt werden. Zu diesem Zweck werden die einzelnen Aufgaben als sogenannte Prozesse 
+ausgeführt, die vom Betriebssystem als übergeordnetem Steuerprozess verwaltet werden. Speichermanagement. Obwohl Computersysteme heutzutage über einen vergleichsweise 
+großen Arbeitsspeicher verfügen, finden dennoch oftmals nicht alle Programme und Daten auf einmal Platz darin. Das Speichermanagement sorgt dafür, dass immer die gerade 
+benötigten Speicherinhalte zur Verfügung stehen, ohne dass die Programmierer der Anwendungssoftware sich sonderlich darum kümmern müssten. Steuerung und Abstraktion der 
+Hardware. Computersysteme sind hochgradig modular aufgebaut; jede Aufgabe kann durch viele verschiedene Geräte unterschiedlicher Hersteller erledigt werden. 
+Betriebssysteme lösen dieses Problem durch den Einsatz der sogenannten Gerätetreiber, die die Steuerlogik für bestimmte Hardware enthalten. 
